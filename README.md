@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/harshalpatond" target="blank"><img src="https://img.shields.io/twitter/follow/harshalpatond?logo=twitter&style=for-the-badge" alt="harshalpatond" /></a> </p>
 
-- 🔭 I’m currently working on **Bug Hunting, penetration testing**
+- 🔭 I’m currently working on :**Bug Hunting, penetration testing**
 
-- 🌱 I’m currently learning **Cyber Security , Bug Hunting**
+- 🌱 I’m currently learning :**Cyber Security , Bug Hunting**
 
-- 👯I'm Currently Education **Computer Engineering**
+- 👯I'm Currently Education :**Computer Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshalpatond1](https://github.com/Harshalpatond1)
 
-- 💬 Ask me about **Cyber Security**
+- 💬 Ask me about :**Cyber Security**
 
 - 📫 How to reach me **Harshalpatond143@gmail.com**
 
